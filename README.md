@@ -14,7 +14,7 @@ Katalonの[Built-in keywords](https://docs.katalon.com/display/KD/Mobile)でや�
   - Selenium (Selenium-java-2.41.0.jar)
   - Java-util (java-util-1.3.1.jar)
   - commons-lang(common-lang3.3.7.jar)
-
+詳しくいステップIssues＃1
 
 ターミナルを開いてKatalonフォルダーのKeywordsフォルダーを開きます。
 例えばプロジェクトフォルダーパスはKatalon Studio/myprojectの場合、
