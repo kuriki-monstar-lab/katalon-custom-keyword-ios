@@ -15,3 +15,12 @@ Katalonの[Built-in keywords](https://docs.katalon.com/display/KD/Mobile)でや�
   - Java-util (java-util-1.3.1.jar)
   - commons-lang(common-lang3.3.7.jar)
 
+
+ターミナルを開いてKatalonフォルダーのKeywordsフォルダーを開きます。
+例えばプロジェクトフォルダーパスはKatalon Studio/myprojectの場合、
+
+$ cd Katalon\ Studio/myproject/Keywords/
+
+Gitレポシトリから全てのファイルをcustomkeywordsフォルダーの中にダウンロードします。
+
+$ git clone https://github.com/chanyadeshani/Katalon-Keywords-ios-mobile.git customkeywords
