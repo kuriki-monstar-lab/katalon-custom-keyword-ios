@@ -24,4 +24,4 @@ $ cd Katalon\ Studio/myproject/Keywords/
 
 Gitレポシトリから全てのファイルをcustomkeywordsフォルダーの中にダウンロードします。
 
-$ git clone https://github.com/chanyadeshani/Katalon-Keywords-ios-mobile.git customkeywords
+$ git clone https://github.com/monstar-lab/katalon-custom-keyword-ios.git customkeywords
