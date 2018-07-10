@@ -17,11 +17,13 @@ Katalonの[Built-in keywords](https://docs.katalon.com/display/KD/Mobile)でや�
 
 詳しくいステップIssues＃1
 
-ターミナルを開いてKatalonフォルダーのKeywordsフォルダーを開きます。
-例えばプロジェクトフォルダーパスはKatalon Studio/myprojectの場合、
 
-$ cd Katalon\ Studio/myproject/Keywords/
-
-Gitレポシトリから全てのファイルをcustomkeywordsフォルダーの中にダウンロードします。
-
-$ git clone https://github.com/monstar-lab/katalon-custom-keyword-ios.git customkeywords
+## Customkeywordsを新しいProjectに追加する方法
+ - Katalonを開きます。
+ - Katalon Studio > Preferences > Katalon > Gitを開いてEnable Git IntegrationをチェックしApplyとOKをタップします。
+ - Menu barにGitアイコン表示しますので　Git > Clone　Projectクリックします。
+ - Repository URLを「https://github.com/monstar-lab/katalon-custom-keyword-ios/」入れます。
+ - 次の画面Next、Next、Finishクリックします。
+ - katalon-custom-keyword-iosと新しいprojectを作成された事確認します。
+ - katalon-custom-keyword-ios　Projectを開きKeywordsフォルダー中にGitからCustom　Keywordsをコピーしている事確認
+ - Project > SettingsからProjectの名前を変更できます。
