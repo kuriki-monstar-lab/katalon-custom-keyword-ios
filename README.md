@@ -55,3 +55,5 @@ See Issues＃1 for detailed steps.
  - A new project will be created as katalon-custom-keyword-iosproject.
  - Open katalon-custom-keyword-ios　Project and open Keywords folder and confirm you have a copy of the git repository keywords.
  - You can change project name via Project > Settings
+
+[see the video on how to use custom keyword in a test](https://github.com/monstar-lab/katalon-custom-keyword-ios/blob/master/Add%20a%20coustom%20keyword%20to%20test1.mov)
