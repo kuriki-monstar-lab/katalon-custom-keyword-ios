@@ -47,13 +47,16 @@ See Issues＃1 for detailed steps.
 
 
 ## How to use Customkeywords in this project in your new project
- - Open Katalon.
- - Navigate to Katalon Studio > Preferences > Katalon > Git. Check Enable Git Integration and click Apply and OK.
- - Git icon will appear in Menu bar. Navigate　Git > Clone　Project
- - Insert Repository URL「https://github.com/monstar-lab/katalon-custom-keyword-ios/」
- - Keep all the other screen as default and finish.
- - A new project will be created as katalon-custom-keyword-iosproject.
- - Open katalon-custom-keyword-ios　Project and open Keywords folder and confirm you have a copy of the git repository keywords.
- - You can change project name via Project > Settings
+- From Version 5.5 [Import/Export Keywords](https://docs.katalon.com/x/GAfR)
+----------
+ - Before Version 5.5
+   - Open Katalon.
+   - Navigate to Katalon Studio > Preferences > Katalon > Git. Check Enable Git Integration and click Apply and OK.
+   - Git icon will appear in Menu bar. Navigate　Git > Clone　Project
+   - Insert Repository URL「https://github.com/monstar-lab/katalon-custom-keyword-ios/」
+   - Keep all the other screen as default and finish.
+   - A new project will be created as katalon-custom-keyword-iosproject.
+   - Open katalon-custom-keyword-ios　Project and open Keywords folder and confirm you have a copy of the git repository keywords.
+   - You can change project name via Project > Settings
 
 [see the video on how to use custom keyword in a test](https://github.com/monstar-lab/katalon-custom-keyword-ios/blob/master/Add%20a%20coustom%20keyword%20to%20test1.mov)
